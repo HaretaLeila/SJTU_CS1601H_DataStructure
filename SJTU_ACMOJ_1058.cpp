@@ -1,3 +1,4 @@
+// 本题没有什么好解释的，按照要求实现链表即可
 #include <iostream>
 #include <cstdio>
 using namespace std;
