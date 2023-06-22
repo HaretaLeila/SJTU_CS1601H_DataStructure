@@ -1,5 +1,5 @@
 // 本题只需要维护一个优先队列即可，建议自己写，不过使用stl queue中的priority_queue也没有扣分
-// 不过数据集相当弱，优先队列用插入排序O(n^2)都能过(from 舍友)
+// 不过数据集相当弱，优先队列挨个比较然后插入O(n^2)都能过(from 舍友)
 #include <iostream>
 #include <stdio.h>
 #define init 20
